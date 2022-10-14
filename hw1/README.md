@@ -1,7 +1,12 @@
 ###  1    Shell
 
-time find ./ -name "*.c" -o -name "*.h" -type f | xargs grep hello -n
 
+src/1/find.sh
+	time find ./ -name "*.c" -o -name "*.h" -type f | xargs grep hello -n
+
+in terminal
+	cd src/1/
+	chmod a+x find.sh
 
 ###  2    识别苹果
 
