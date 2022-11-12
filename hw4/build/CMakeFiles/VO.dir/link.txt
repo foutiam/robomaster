@@ -1,0 +1,2 @@
+/usr/bin/ar qc libVO.a  CMakeFiles/VO.dir/src/VO.cpp.o
+/usr/bin/ranlib libVO.a
