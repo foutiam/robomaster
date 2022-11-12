@@ -1,8 +1,8 @@
 # robomaster
 #robomaster-homework
 
-#To run hwX
+To run hwX
 
-#cd build (make)
+cd build (make)
 
-#./X
+./X
