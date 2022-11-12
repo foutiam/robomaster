@@ -1,8 +1,9 @@
 # robomaster
 #robomaster-homework
 
-To run hwX
+To run hw TX
 ```
-cd build (make)
+cd build
+make
 ./X
 ```
